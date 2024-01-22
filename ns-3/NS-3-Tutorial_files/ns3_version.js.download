@@ -1,0 +1,7 @@
+// ns3_version.js:  automatically generated
+//  public urls
+var ns3_host = "/";
+var ns3_version = "Release <a href=\"https://www.nsnam.org/ns-3-3.40\">3.40</a>";
+var ns3_release = "docs/release/3.40/";
+var ns3_local = "";
+var ns3_doxy  = "doxygen/";
